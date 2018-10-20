@@ -1,0 +1,97 @@
+
+div span{
+	font-size: 1rem;
+}
+
+div .icono{
+	width: 1rem;
+	font-size: 1rem;
+}
+
+.fondoverde{
+	background-color: green;
+}
+
+.fondoamarillo{
+	background-color: yellow;
+}
+
+i {
+	margin-top: 1%;
+}
+
+body{
+	background-color: #f3f3f3;
+}
+ul{
+	list-style: none;
+	display: block;
+    padding-left: 0px;
+}
+.wrap_ctn{
+    width: 33.333333%;
+}
+
+h6{
+	text-align: center;
+}
+
+header a{
+	color: #191919;
+	text-decoration: none;
+}
+
+header a:hover{
+	color: #191919;
+	text-decoration: none;
+}
+
+.user{
+	color: white;
+	background-color: #4ed0da;
+}
+
+.menu-bar{
+	background-color: black;
+}
+
+.top_menu ul.menu{
+	position: relative;
+	margin-bottom: 0;
+}
+
+.top_menu > ul > li > a{
+	display: inline-block;
+    font: 500 17px/20px "Roboto",sans-serif;
+    text-transform: uppercase;
+	color: white;
+	padding: 40px 0;
+    position: relative;
+}
+
+.menu li{
+	display: inline;
+	color: white;
+	padding-left:1%;
+}
+
+.menu li a{
+
+	font-family: Arial;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	text-decoration: none;
+	float: left;
+	background-color:black;
+	color: #fff;
+}
+
+.container-fluid{
+	width: 97%;
+	padding: 0;
+}
+
+end{
+	align-items: flex-end;
+}
